@@ -1,5 +1,8 @@
+import React  from 'react'
 function Greet()
-{
-    <div>Hello Princes Wanga</div>
+{   return
+    <h1>
+     Hello Princes Wanga 
+    </h1>
 }
 export default Greet
